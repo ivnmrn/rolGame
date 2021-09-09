@@ -41,4 +41,7 @@ This project is under construction
 
 ## Video
 
-![](rolGame/video/giphy-1.gif)
+<p align="left">
+<img align="left" src="/video/giphy-2.gif" width="50%" alt="Second img"/>
+<img align="left" src="/video/giphy-1.gif" width="50%" alt="Second img"/>
+</p>
