@@ -46,7 +46,6 @@ class Battle:
         print('\n')
 
     def current_status(self):
-
         monster_hp_lost = int(self.monster.constant_hp - self.monster.health)
         monster_current_hp = int(self.monster.constant_hp - monster_hp_lost)
 
